@@ -49,5 +49,3 @@ Les +
 * Referencement pris en compte
 * Mise en place d'un theme enfant
 
-[![Regarder la vidéo de soutenance](https://img.youtube.com/vi/xmMUg-0Jn_4/maxresdefault.jpg)](https://youtu.be/xmMUg-0Jn_4)
-
